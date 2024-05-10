@@ -1,0 +1,9 @@
+*.class
+.proyect
+.classpath
+.settings/
+/bin
+*.rar
+*.zip
+*.jar
+.metadata/
